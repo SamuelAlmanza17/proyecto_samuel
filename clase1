@@ -6,3 +6,51 @@ Dato: Es una pieza de información sin procesar ni contexto (por ejemplo, un nú
 Información: Es un dato que se ha organizado o dado contexto, lo que le da significado.
 Conocimiento: Es la comprensión profunda de la información, que nos permite tomar decisiones o resolver problemas.
 los datos son la base, la información es el dato con contexto, y el conocimiento es la capacidad de aplicar esa información de manera útil.
+
+
+Tipos de análisis de datos
+
+1. Análisis Descriptivo
+Este tipo de análisis se centra en resumir y describir los datos pasados. Su objetivo es entender qué ha sucedido,
+proporcionando una visión general a partir de datos históricos.
+
+Ejemplo en la vida real: Un informe que muestra las ventas de una tienda durante el último mes. Por ejemplo, 
+"Las ventas de noviembre fueron de $50,000, lo que representa un aumento del 10% respecto al mes anterior".
+
+2. Análisis Diagnóstico
+El análisis diagnóstico trata de identificar las causas de un fenómeno o tendencia observada. Se enfoca en entender
+por qué sucedió algo, explorando patrones y relaciones.
+
+Ejemplo en la vida real: Si una tienda ve una disminución en las ventas, el análisis diagnóstico podría investigar 
+por qué. Puede revelar que la causa fue una disminución en la publicidad o que un competidor lanzó una promoción agresiva en la misma zona.
+
+3. Análisis Predictivo
+Este tipo de análisis utiliza datos históricos para predecir qué podría suceder en el futuro. Se basa en modelos estadísticos 
+y algoritmos de machine learning para hacer proyecciones.
+
+Ejemplo en la vida real: Las aplicaciones de pronóstico del clima utilizan análisis predictivo para estimar el
+clima en los próximos días. Por ejemplo, "Basado en los patrones meteorológicos de los últimos años, es probable que haya lluvia la próxima semana".
+
+4. Análisis Prescriptivo
+El análisis prescriptivo va más allá de predecir lo que ocurrirá. Busca recomendar acciones o estrategias para obtener
+el mejor resultado posible, respondiendo a la pregunta: ¿Qué debemos hacer?
+
+Ejemplo en la vida real: Un sistema de recomendación de una tienda online puede sugerir productos a los usuarios basado 
+en su historial de compras y el comportamiento de otros usuarios. "Basado en tus compras anteriores, te recomendamos estos artículos".
+
+-
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

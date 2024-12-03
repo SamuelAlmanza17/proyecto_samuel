@@ -8,6 +8,8 @@ Conocimiento: Es la comprensión profunda de la información, que nos permite to
 los datos son la base, la información es el dato con contexto, y el conocimiento es la capacidad de aplicar esa información de manera útil.
 
 
+
+
 Tipos de análisis de datos
 
 1. Análisis Descriptivo
@@ -38,7 +40,15 @@ el mejor resultado posible, respondiendo a la pregunta: ¿Qué debemos hacer?
 Ejemplo en la vida real: Un sistema de recomendación de una tienda online puede sugerir productos a los usuarios basado 
 en su historial de compras y el comportamiento de otros usuarios. "Basado en tus compras anteriores, te recomendamos estos artículos".
 
--
+Resumen de los cuatro tipos de análisis:
+Descriptivo: ¿Qué pasó? (Ejemplo: informe de ventas pasadas).
+Diagnóstico: ¿Por qué ocurrió? (Ejemplo: análisis de la caída en ventas).
+Predictivo: ¿Qué puede pasar? (Ejemplo: pronóstico del clima).
+Prescriptivo: ¿Qué debemos hacer? (Ejemplo: recomendaciones de productos en una tienda online).
+
+
+
+
 
 
 
